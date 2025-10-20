@@ -57,7 +57,7 @@ Use `Descriptor Computation_Preprosesing data.ipynb` to calculate molecular fing
 
 ### 2. Train Models
 - `Training_ML_Fingerprint_10foldCrossvalidation.ipynb` for fingerprint-based models  
-- `Training_ML_Dermal_PhysicochemicalProperties_5foldCrossvalidation.ipynb` for physicochemical descriptor-based models  
+- `Training_ML_PhysicochemicalProperties_10foldCrossvalidation.ipynb` for physicochemical descriptor-based models  
 
 ### 3. Evaluate Models
 Use `Model_Evaluation.ipynb` to perform consensus evaluation and generate metrics for all models.  
