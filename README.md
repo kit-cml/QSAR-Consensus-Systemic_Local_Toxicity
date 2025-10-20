@@ -23,18 +23,17 @@ Cross-validation ensures robust and reliable model performance.
 
 ---
 
-## Repository Structure
-
-
----
-
 ## Features
 
 - **Data preprocessing** and descriptor calculation  
 - **Model training** using both fingerprint and physicochemical features  
 - **Cross-validation** with manual and original splits  
 - **Evaluation** of both individual and consensus models  
+- **Datasets included** for training and evaluation:
+  - Manual split dataset  
+  - Original split dataset  
 - Ensures reproducibility with fixed package versions
+
 
 ---
 
